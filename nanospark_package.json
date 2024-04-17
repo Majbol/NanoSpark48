@@ -10,7 +10,7 @@
       [
         {
           "name": "NanoSpark",
-          "architecture": "avr",
+          "architecture": "megaavr",
           "version": "0.9",
           "category": "Contributed",
           "url": "https://github.com/Majbol/NanoSpark48/blob/main/NanoSpark48.zip",
