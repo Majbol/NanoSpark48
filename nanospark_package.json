@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "NanoSpark48",
+        "name": "NanoSpark Development Boards",
         "maintainer": "Nano Spark",
         "websiteURL": "",
         "email": "",
@@ -10,7 +10,7 @@
         },
         "platforms": [
           {
-            "name": "NanoSpark48",
+            "name": "NanoSpark",
             "architecture": "megaavr",
             "version": "0.9",
             "category": "Contributed",
@@ -31,6 +31,11 @@
                 "packager": "arduino",
                 "name": "avr-gcc",
                 "version": "7.3.0-atmel3.6.1-arduino7"
+              },
+              {
+                "packager": "NanoSpark",
+                "name": "avrdude",
+                "version": "7.1-arduino.1"
               },
               {
                 "packager": "arduino",
