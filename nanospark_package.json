@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "NanoSpark Development Boards",
+        "name": "NanoSpark",
         "maintainer": "Nano Spark",
         "websiteURL": "",
         "email": "",
