@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/Majbol/NanoSpark48/raw/main/NanoSpark48.zip",
             "archiveFileName": "NanoSpark48.zip",
-            "checksum": "SHA-256:813628e26e49684b3c187f4e85fb2ce9969f9c0374dc2efab663ffa27cad8ef4",
-            "size": "442828",
+            "checksum": "SHA-256:d744dfef2fbd6fd6a4481b1100c80c5d293d61dcdcd485ba4de4434d4b880752",
+            "size": "442880",
             "boards": [
               {
                 "name": "NanoSpark48K"
