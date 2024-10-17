@@ -12,12 +12,12 @@
           {
             "name": "NanoSpark",
             "architecture": "megaavr",
-            "version": "0.9.1",
+            "version": "0.9.2",
             "category": "Contributed",
             "url": "https://github.com/Majbol/NanoSpark48/raw/main/NanoSpark48.zip",
             "archiveFileName": "NanoSpark48.zip",
-            "checksum": "SHA-256:f53784e0bb0f8e686827803fbd27cae61059bad288dd4627b7fac90782f735e9",
-            "size": "442849",
+            "checksum": "SHA-256:0013713d415218e3f45ed6c301aefb685f5eaefee91e213f7014c74b8541eacc",
+            "size": "442872",
             "boards": [
               {
                 "name": "NanoSpark48K"
